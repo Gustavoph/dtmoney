@@ -15,15 +15,15 @@ export function Summary() {
       </div>
       <div>
         <header>
-          <p>Entradas</p>
-          <img src={outcomeImg} alt="Entradas" />
+          <p>Saídas</p>
+          <img src={outcomeImg} alt="Saídas" />
         </header>
         <strong>-R$500,00</strong>
       </div>
       <div className="highlight-background">
         <header>
-          <p>Entradas</p>
-          <img src={totalImg} alt="Entradas" />
+          <p>Total</p>
+          <img src={totalImg} alt="Total" />
         </header>
         <strong>R$500,00</strong>
       </div>
